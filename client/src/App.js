@@ -10,6 +10,7 @@ import LandingPage from './components/views/LandingPage/LandingPage'
 import LoginPage from './components/views/LoginPage/LoginPage';
 import RegisterPage from './components/views/RegisterPage/RegisterPage';
 import Auth from './hoc/auth'
+import 'semantic-ui-css/semantic.min.css'
 
 function App() {
   return (
